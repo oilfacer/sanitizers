@@ -1,0 +1,12 @@
+# 编译产物
+examples/demo_*
+examples/gwp_demo
+examples/*.o
+
+# 临时文件
+*.tmp
+*.swp
+*~
+
+# 日志文件
+*.log
